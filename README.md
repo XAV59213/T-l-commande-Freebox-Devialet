@@ -57,11 +57,13 @@ elements:
 ```
 
 
-  # Ajoutez les autres boutons ici...
+### Ajoutez les autres boutons ici...
 Sauvegarder et vérifier
 Rechargez votre interface Home Assistant
 Testez les boutons
+
 📌 Fonctionnalités
+
 ✅ Contrôle total de la Freebox Devialet
 ✅ Boutons interactifs sur l’image de la télécommande
 ✅ Intégration native avec Home Assistant
@@ -78,7 +80,7 @@ Une fois installé, votre télécommande ressemblera à ceci dans Home Assistant
 🌟 Contribuer
 Vous pouvez contribuer en proposant des améliorations ou en partageant vos retours !
 
-📩 Contact : [Votre GitHub / Email]
+📩 Contact : @XAV59213
 
 📜 Licence
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier.
